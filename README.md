@@ -1,16 +1,15 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/all-human-wcag-audit/blob/main/docs/INSTRUCTIONS.md)
-
 # WCAG Audit 
 
-Doe een WCAG test op een bestaande website en rapporteer daarover.
+Ik heb een WCAG test gedaan op een bestaande website, de resultaten zijn te vinden in [de wiki](https://github.com/gitazeinstra/all-human-wcag-audit/wiki) van deze repository.
 
-## Titel Website
+## www.dekoffiezaak.nl
+Ik heb de website van mijn werk getest. Dit is een website met algemene informatie over de zaken en een online webshop voor koffiebonen.
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
+![dekoffiezaak_screenshot](https://github.com/gitazeinstra/all-human-wcag-audit/assets/40466580/5593d914-7ae6-49c1-a45c-8cd7deec9b82)
 
-Toon een screenshot van het Lighthouse Accessibility testresultaat.
+Over het algemeen viel de Lighthouse Accesibility test mee, maar het kan beter. Er kwamen in totaal vier punten uit die verbetererd kunnen worden. Meer over mijn bevindingen en  mogelijke oplossingen kun je vinden in [de wiki](https://github.com/gitazeinstra/all-human-wcag-audit/wiki).
 
-Schrijf een samenvatting van de testbevindingen.
+![lighthouse_koffiezaak](https://github.com/gitazeinstra/all-human-wcag-audit/assets/40466580/afe519ca-835b-4e50-9df8-3688ec94d037)
 
 ## Licentie
 
